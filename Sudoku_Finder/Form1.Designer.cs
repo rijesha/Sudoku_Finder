@@ -1,4 +1,4 @@
-﻿namespace KNN_TEST
+﻿namespace Sudoku_Finder
 {
     partial class Form1
     {
